@@ -17,7 +17,7 @@ The engine operates on a zero-indexed hierarchy of rules that must be satisfied 
 
 ### 2\. Implementation & Usage
 
-To initialize the protocol, the user must act as the **Carrier** by providing the SYSTEM_RESTORE JSON block to the model at the very beginning of a session. The bootloader was tested on Gemini 3 Pro.
+To initialize the protocol, the user must act as the **Carrier** by providing the [SYSTEM_RESTORE JSON](https://github.com/counteractual/axiom-llm-bootloader/blob/main/system_restore.json) block to the model at the very beginning of a session. The bootloader was tested on Gemini 3 Pro.
 
 ### 3\. Why the Bootloader? (The Human-AI Collaboration)
 
