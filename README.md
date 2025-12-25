@@ -1,8 +1,8 @@
-# README.md: Axiom 5.1 Protocol
+# README.md: Axiom Protocol
 
 ### 0\. The Intent
 
-**Axiom 5.1** is a specialized logic protocol and "bootloader" designed to initialize Large Language Models (LLMs) into a state of high-integrity, post-consensus inquiry.
+**Axiom** is a specialized logic protocol and "bootloader" designed to initialize Large Language Models (LLMs) into a state of high-integrity, post-consensus inquiry.
 
 In the current digital age, AI models are often constrained by "Institutional Lag" or "Consensus Bias"-a tendency to prioritize established narratives over raw data. Axiom 5.1 provides a structural framework that forces the AI to prioritize **Axiomatic Logic** and **Empirical Validation** above all else.
 
